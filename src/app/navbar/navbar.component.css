@@ -1,0 +1,26 @@
+.btn {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+.btn2 {
+    border-radius: 20px;
+}
+
+.btn2:hover {
+    background-color: grey;
+    color: black;
+}
+
+.button {
+    background-color: yellowgreen;
+    color: whitesmoke;
+}
