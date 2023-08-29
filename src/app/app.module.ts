@@ -7,6 +7,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { MastheadComponent } from './masthead/masthead.component';
 import { EmotionspageComponent } from './emotionspage/emotionspage.component';
 import { PlacardComponent } from './placard/placard.component';
+import { Masthead2Component } from './masthead2/masthead2.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { PlacardComponent } from './placard/placard.component';
     NavbarComponent,
     MastheadComponent,
     EmotionspageComponent,
-    PlacardComponent
+    PlacardComponent,
+    Masthead2Component
   ],
   imports: [
     BrowserModule,
