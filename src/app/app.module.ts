@@ -8,6 +8,7 @@ import { MastheadComponent } from './masthead/masthead.component';
 import { EmotionspageComponent } from './emotionspage/emotionspage.component';
 import { PlacardComponent } from './placard/placard.component';
 import { Masthead2Component } from './masthead2/masthead2.component';
+import { MadladComponent } from './madlad/madlad.component';
 
 @NgModule({
   declarations: [
@@ -16,7 +17,8 @@ import { Masthead2Component } from './masthead2/masthead2.component';
     MastheadComponent,
     EmotionspageComponent,
     PlacardComponent,
-    Masthead2Component
+    Masthead2Component,
+    MadladComponent
   ],
   imports: [
     BrowserModule,
